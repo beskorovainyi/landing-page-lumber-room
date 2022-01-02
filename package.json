@@ -1,0 +1,19 @@
+{
+  "name": "landing-page-lumber-room",
+  "version": "1.0.1",
+  "description": "landing-page",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beskorovainyi/landing-page-lumber-room.git"
+  },
+  "author": "Beskorovainyi Maksym",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beskorovainyi/landing-page-lumber-room/issues"
+  },
+  "homepage": "https://github.com/beskorovainyi/landing-page-lumber-room#readme"
+}
