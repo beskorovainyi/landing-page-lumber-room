@@ -1,4 +1,11 @@
 import React from "react";
+import Header from "../components/Header/Header";
+import Artists from "../components/Artists/Artists";
+import Events from "../components/Events/Events";
+import Music from "../components/Music/Music";
+import Shop from "../components/Shop/Shop";
+import Footer from "../components/Footer/Footer";
+
 
 // reactstrap components
 import {
@@ -20,15 +27,18 @@ import {
 } from "reactstrap";
 
 
+
 const LandingPage = () => {
 
 
-  return(
+  return (
       <>
-        <h3>Header</h3>
-        <h5>content</h5>
-        <Container>
-        </Container>
+        <Header/>
+        <Artists/>
+        <Events/>
+        <Music/>
+        <Shop/>
+        <Footer/>
       </>
   )
 }
